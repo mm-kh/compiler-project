@@ -1,0 +1,16 @@
+**temp = num ( 28.534 )
+**temp2 = **temp + 3.5
+get ( / **temp3 / ) 
+may **temp /=/ 23 {
+     show ( / **temp / ) } 
+may **temp >> 18 {
+     show ( / **temp / ) }
+maybe **temp >> 30 {
+     show ( / **temp / ) }
+other {
+     show ( / "nothing" / ) }
+rep **i = num ( 0 ) , **i << 10 , **i ++ {
+     get ( / **item / ) }
+fn **mahdi ( / **a , **b / ) {
+     **khani = alph ( "pass" ) }
+call **mahdi ( / 3 , 4 / )

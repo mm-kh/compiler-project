@@ -1,0 +1,16 @@
+<id1> <=> <number> <(> <float28.534> <)> 
+<id2> <=> <id1> <+> <float3.5> 
+<input> <(> </> <id3> </> <)> 
+<if> <id1> </=/> <int23> <{> 
+<output> <(> </> <id1> </> <)> <}> 
+<if> <id1> >> <int18> <{> 
+<output> <(> </> <id1> </> <)> <}> 
+<else_if> <id1> >> <int30> <{> 
+<output> <(> </> <id1> </> <)> <}> 
+<else> <{> 
+<output> <(> </> <"string"> </> <)> <}> 
+<for> <id4> <=> <number> <(> <int0> <)> <,> <id4> << <int10> <,> <id4> <++> <{> 
+<input> <(> </> <id5> </> <)> <}> 
+<function> <id6> <(> </> <id7> <,> <id8> </> <)> <{> 
+<id9> <=> <string> <(> <"string"> <)> <}> 
+<call> <id6> <(> </> <int3> <,> <int4> </> <)> 
